@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgcontent"
+    tools:context=".categories">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="355dp"
+        android:layout_height="667dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/englishtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:textSize="25dp"
+            android:textStyle="bold"
+
+            app:layout_column="0"
+            app:layout_row="1" />
+
+        <TextView
+            android:id="@+id/mathstxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Maths"
+            android:textSize="25dp"
+            android:textStyle="bold"
+
+            app:layout_column="1"
+            app:layout_row="1" />
+
+        <TextView
+            android:id="@+id/storiestxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reading Time"
+            android:textSize="25dp"
+            android:textStyle="bold"
+
+            app:layout_column="1"
+            app:layout_row="3" />
+
+        <TextView
+            android:id="@+id/rhymestxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Movie Time"
+            android:textSize="25dp"
+
+            android:textStyle="bold"
+            app:layout_column="0"
+            app:layout_row="3" />
+
+        <TextView
+            android:id="@+id/gamestxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Games"
+            android:textSize="25dp"
+
+            android:textStyle="bold"
+            app:layout_column="0"
+            app:layout_row="5" />
+
+        <TextView
+            android:id="@+id/testtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tests"
+            android:textSize="25dp"
+
+            android:textStyle="bold"
+            app:layout_column="1"
+            app:layout_row="5" />
+
+        <ImageButton
+            android:id="@+id/englishimg"
+            android:layout_width="185dp"
+            android:layout_height="190dp"
+            android:scaleType="fitCenter"
+            app:layout_column="0"
+            app:layout_row="0"
+            app:srcCompat="@drawable/abc1" />
+
+        <ImageButton
+            android:id="@+id/mathsimg"
+            android:layout_width="199dp"
+            android:layout_height="184dp"
+            android:scaleType="fitStart"
+            app:layout_column="1"
+            app:layout_row="0"
+            app:srcCompat="@drawable/nuj1" />
+
+        <ImageButton
+            android:id="@+id/movieimg"
+            android:layout_width="195dp"
+            android:layout_height="172dp"
+            android:scaleType="fitCenter"
+            app:layout_column="0"
+            app:layout_row="2"
+            app:srcCompat="@drawable/movieimg" />
+
+        <ImageButton
+            android:id="@+id/readingimg"
+            android:layout_width="193dp"
+            android:layout_height="176dp"
+            android:scaleType="fitCenter"
+            app:layout_column="1"
+            app:layout_row="2"
+            app:srcCompat="@drawable/readingtymimg" />
+
+        <ImageButton
+            android:id="@+id/gamesimg"
+            android:layout_width="183dp"
+            android:layout_height="173dp"
+            app:layout_column="0"
+            app:layout_row="4"
+            app:srcCompat="@drawable/games1" />
+
+        <ImageButton
+            android:id="@+id/testsimg"
+            android:layout_width="178dp"
+            android:layout_height="171dp"
+            app:layout_column="1"
+            app:layout_row="4"
+            app:srcCompat="@drawable/test3" />
+
+    </androidx.gridlayout.widget.GridLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
