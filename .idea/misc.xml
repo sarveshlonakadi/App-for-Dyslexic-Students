@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_categories.xml" value="0.152" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_categories2.xml" value="0.264" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_english.xml" value="0.264" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_english_abc.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_english_abc1.xml" value="0.264" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_maths.xml" value="0.11883691529709228" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_maths2.xml" value="0.2" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_movie.xml" value="0.1" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_movie2.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_rhymes.xml" value="0.264" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_rhymes2.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_tests.xml" value="0.2534722222222222" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/activity_under_dev.xml" value="0.264" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/content_categories.xml" value="0.4" />
+        <entry key="..\:/Users/sarve/AndroidStudioProjects/MinorProject1/app/src/main/res/layout/content_movie.xml" value="0.11197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
